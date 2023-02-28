@@ -31,7 +31,7 @@ User Model
     },
     billing: {
       street: {string, mandatory},
-      city: {string, mandatory},
+      city: {string, mandatory},  
       pincode: {number, mandatory}
     }
   },
